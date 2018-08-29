@@ -8,10 +8,15 @@ Please note that this a starter project, not a complete project and may contain 
 
 # Setting-up the project:
 1. Set Path for android emulation with react-native:
+
 	export ANDROID_HOME=$HOME/Android/Sdk
+
 	export PATH=$PATH:$ANDROID_HOME/tools
+
 	export PATH=$PATH:$ANDROID_HOME/tools/bin
+
 	export PATH=$PATH:$ANDROID_HOME/platform-tools
+
 2. npm install
 3. npm start
 

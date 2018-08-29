@@ -19,6 +19,9 @@ Please note that this a starter project, not a complete project and may contain 
 	export PATH=$PATH:$ANDROID_HOME/platform-tools
 
 3. npm install
+4. Start android emulator
+5. react-native run-android
+6. (If error occurs, don't worry) npm start
 
 # Project Structure:
 	.

@@ -7,7 +7,8 @@ Please note that this a starter project, not a complete project and may contain 
 1. ReactJS
 
 # Setting-up the project:
-1. Set Path for android emulation with react-native:
+1. git clone https://github.com/fawad-khalil/reactNativeApp
+2. Set Path for android emulation with react-native:
 
 	export ANDROID_HOME=$HOME/Android/Sdk
 
@@ -17,8 +18,7 @@ Please note that this a starter project, not a complete project and may contain 
 
 	export PATH=$PATH:$ANDROID_HOME/platform-tools
 
-2. npm install
-3. npm start
+3. npm install
 
 # Project Structure:
 	.
